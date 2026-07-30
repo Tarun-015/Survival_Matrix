@@ -12,3 +12,5 @@ Survival Matrix (ML) — “Decoding What Makes Companies Thrive”
 Part of The Indian Business Genome series.
 A machine learning study on what drives the survival, success, or shutdown of Indian startups.
 By analyzing funding, sector, team, and market data, this project builds predictive models and data-driven insights to understand the DNA of thriving businesses in India’s startup landscape.
+
+Updates coming soon....
